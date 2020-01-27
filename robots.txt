@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ucaeceebu.ronalddehaan.nl/sitemap.xml
